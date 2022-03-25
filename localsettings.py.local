@@ -1,0 +1,7 @@
+# To use this file copy localsettings.py.local to localsettings.py and configure.
+# Create local settings here.  Keep this in .gitignore and never check this into
+
+
+ORGANIZATION_ID = ""
+CLIENT_ID = ""
+CLIENT_SECRET = ""
